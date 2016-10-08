@@ -1,0 +1,25 @@
+{
+  "name": "regexp-frequent",
+  "version": "0.0.1",
+  "description": "some frequently used regexp",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/taijiweb/regexp-frequent/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taijiweb/regexp-frequent.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+  }
+}
